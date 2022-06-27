@@ -1,0 +1,38 @@
+[
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Construct a trie from scratch",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+    },
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Find shortest unique prefix for every word in a given list",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/"
+    },
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Word Break Problem | (Trie solution)",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/"
+    },
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Given a sequence of words, print all anagrams together",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0"
+    },
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Implement a Phone Directory",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/phone-directory/0"
+    },
+    {
+        "Topic:": "Trie",
+        "Problem: ": "Print unique rows in a given boolean matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1"
+    }
+]

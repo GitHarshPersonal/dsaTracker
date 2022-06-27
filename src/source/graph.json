@@ -1,0 +1,266 @@
+[
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Create a Graph, print it (implemented code)",
+        "Done": false,
+        "URL": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Create a Graph (for practice)",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement BFS algorithm ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement DFS Algo ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Search in a Maze",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Minimum Step by Knight",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/steps-by-knight/0"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "flood fill algo",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/flood-fill/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Clone a graph",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Making wired Connections",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "word Ladder ",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Dijkstra algo",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement Topological Sort ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Find whether it is possible to finish all tasks or not from given dependencies",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Find the no. of Islands",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Given a sorted Dictionary of an Alien Language, find order of characters",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement Kruksal’sAlgorithm",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement Prim’s Algorithm",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Total no. of Spanning tree in a graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement Bellman Ford Algorithm",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Implement Floyd warshallAlgorithm",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Travelling Salesman Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Graph ColouringProblem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/graph-coloring-applications/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Snake and Ladders Problem",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/snakes-and-ladders/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Find bridge in a graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/bridge-in-a-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Count Strongly connected Components(Kosaraju Algo)",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Check whether a graph is Bipartite or Not",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/bipartite-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Detect Negative cycle in a graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Longest path in a Directed Acyclic Graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Journey to the Moon",
+        "Done": false,
+        "URL": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Cheapest Flights Within K Stops",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Oliver and the Game",
+        "Done": false,
+        "URL": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Water Jug problem using BFS",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Find if there is a path of more thank length from a source",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "M-ColouringProblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Minimum edges to reverse o make path from source to destination",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Paths to travel each nodes using each edge(Seven Bridges)",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Vertex Cover Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Chinese Postman or Route Inspection",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Number of Triangles in a Directed and Undirected Graph",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+        "Topic:": "Graph",
+        "Problem: ": "Two Clique Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/"
+    }
+]

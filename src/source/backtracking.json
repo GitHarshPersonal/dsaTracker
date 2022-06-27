@@ -1,0 +1,116 @@
+[
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Rat in a maze Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Printing all solutions in N-Queen Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Word Break Problem using Backtracking",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/word-break-part-2/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Remove Invalid Parentheses",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/remove-invalid-parentheses/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Sudoku Solver",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "m Coloring Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Print all palindromic partitions of a string",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Subset Sum Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "The Knight’s tour problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Tug of War",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/tug-of-war/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Find shortest safe route in a path with landmines",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Combinational Sum",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/combination-sum/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Find Maximum number possible by doing at-most K swaps",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Print all permutations of a string ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Find if there is a path of more than k length from a source",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Longest Possible Route in a Matrix with Hurdles",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Print all possible paths from top left to bottom right of a mXn matrix",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Partition of a set intoK subsets with equal sum",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1"
+    },
+    {
+        "Topic:": "BackTracking",
+        "Problem: ": "Find the K-th Permutation Sequence of first N natural numbers",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/"
+    }
+]

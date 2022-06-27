@@ -1,0 +1,62 @@
+[
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Count set bits in an integer",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/set-bits0143/1"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Find the two non-repeating elements in an array of repeating elements",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Count number of bits to be flipped to convert A to B",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/bit-difference/0"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Count total set bits in all numbers from 1 to n",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Program to find whether a no is power of two",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/power-of-2/0"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Find position of the only set bit",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Copy set bits in a range",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Divide two integers without using multiplication, division and mod operator",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Calculate square of a number without using *, / and pow()",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/"
+    },
+    {
+        "Topic:": "Bit Manipulation",
+        "Problem: ": "Power Set",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/power-set4302/1"
+    }
+]

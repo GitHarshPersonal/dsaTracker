@@ -1,0 +1,362 @@
+[
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Coin ChangeProblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/coin-change2448/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Knapsack Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Binomial CoefficientProblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/ncr1019/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Permutation CoefficientProblem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/permutation-coefficient/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Program for nth Catalan Number",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Matrix Chain Multiplication ",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Edit Distance",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Subset Sum Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Friends Pairing Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Gold Mine Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/gold-mine-problem/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Assembly Line SchedulingProblem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Painting the Fenceproblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximize The Cut Segments",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/cutted-segments/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Common Subsequence",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Repeated Subsequence",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Increasing Subsequence",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Space Optimized Solution of LCS",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "LCS (Longest Common Subsequence) of three strings",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum Sum Increasing Subsequence",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Count all subsequences having product less than K",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest subsequence such that difference between adjacent is one",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum subsequence sum such that no three are consecutive",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Egg Dropping Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum Length Chain of Pairs",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum size square sub-matrix with all 1s",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum sum of pairs with specific difference",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Min Cost PathProblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum difference of zeros and ones in binary string",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Minimum number of jumps to reach end",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Minimum cost to fill given weight in a bag",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Minimum removals from array to make max –min <= K",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Common Substring",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-common-substring/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Count number of ways to reacha given score in a game",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Count Balanced Binary Trees of Height h",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/bbt-counter/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Smallest sum contiguous subarray",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Unbounded Knapsack (Repetition of items allowed)",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Word Break Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/word-break/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Largest Independent Set Problem",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Partition problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Palindromic Subsequence",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Count All Palindromic Subsequence in a given String",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest Palindromic Substring",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Longest alternating subsequence",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Weighted Job Scheduling",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/weighted-job-scheduling/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Coin game winner where every player has three choices",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Optimal Strategy for a Game",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Optimal Binary Search Tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Palindrome PartitioningProblem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Word Wrap Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/word-wrap/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Mobile Numeric Keypad Problem [ IMP ]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Boolean Parenthesization Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Largest rectangular sub-matrix whose sum is 0",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum sum rectangle in a 2D matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum profit by buying and selling a share at most k times",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Find if a string is interleaved of two other strings",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1"
+    },
+    {
+        "Topic:": "Dynamic Programming",
+        "Problem: ": "Maximum Length of Pair Chain",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/"
+    }
+]

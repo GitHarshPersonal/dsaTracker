@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+/* body{
+    background-image: url('coding.jpg');
+    background-size: cover;
+} */
+
+.options{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    background-image: url('coding.jpg');
+    background-size: cover;
+}
+
+.link{
+    text-decoration: none;
+    background-color: rgba(60, 22, 22,0.7);
+    color: white;
+    padding: 30px;
+    font-size: 32px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid white;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: fantasy;
+}
+
+.link:hover{
+    border: 2px solid white;
+    padding: 29px;
+}
+
+.homeLink{
+    height: 30vh;
+}

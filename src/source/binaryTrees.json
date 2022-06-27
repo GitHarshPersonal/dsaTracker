@@ -1,0 +1,212 @@
+[
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "level order traversal",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Reverse Level Order traversal",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Height of a tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Diameter of a tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Mirror of a tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Inorder Traversal of a tree both using recursion and Iteration",
+        "Done": false,
+        "URL": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Preorder Traversal of a tree both using recursion and Iteration",
+        "Done": false,
+        "URL": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Postorder Traversal of a tree both using recursion and Iteration",
+        "Done": false,
+        "URL": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Left View of a tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Right View of Tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Top View of a tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Bottom View of a tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Zig-Zag traversal of a binary tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if a tree is balanced or not",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Diagonal Traversal of a Binary tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Boundary traversal of a Binary tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Construct Binary Tree from String with Bracket Representation",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Convert Binary tree into Doubly Linked List",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Convert Binary tree into Sum tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Construct Binary tree from Inorder and preorder traversal",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/construct-tree-1/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Find minimum swaps required to convert a Binary tree into BST",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if Binary tree is Sum tree or not",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/sum-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if all leaf nodes are at same level or not",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if 2 trees are mirror or not",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Sum of Nodes on the Longest path from root to leaf node ",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Check if given graph is tree or not.  [ IMP ]",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/check-given-graph-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Find Largest subtree sum in a tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Print all \"K\" Sum paths in a Binary tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Find LCA in a Binary tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Find distance between 2 nodes in a Binary tree",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Kth Ancestor of node in a Binary tree",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1"
+    },
+    {
+        "Topic:": "Binary Trees",
+        "Problem: ": "Tree Isomorphism Problem",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1"
+    }
+]

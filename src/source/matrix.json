@@ -1,0 +1,62 @@
+[
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Spiral traversal on a Matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Search an element in a matriix",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Find median in a row wise sorted matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Find row with maximum no. of 1's",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Print elements in sorted order using row-column wise sorted matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/sorted-matrix/0"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Maximum size rectangle",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Find a specific pair in matrix",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Rotate matrix by 90 degrees",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Kth smallest element in a row-cpumn wise sorted matrix",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1"
+    },
+    {
+        "Topic:": "Matrix",
+        "Problem: ": "Common elements in all rows of a given matrix",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/"
+    }
+]

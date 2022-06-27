@@ -1,0 +1,110 @@
+[
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Implement a Maxheap/MinHeap using arrays and recursion.",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/building-heap-from-array/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Sort an Array using heap. (HeapSort)",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/heap-sort/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Maximum of all subarrays of size k.",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "“k” largest element in an array",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Kth smallest and largest element in an unsorted array",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Merge “K” sorted arrays. [ IMP ]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Merge 2 Binary Max Heaps",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Kth largest sum continuous subarrays",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Leetcode- reorganize strings",
+        "Done": false,
+        "URL": "https://leetcode.com/problems/reorganize-string/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Merge “K” Sorted Linked Lists [V.IMP]",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Smallest range in “K” Lists",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Median in a stream of Integers",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Check if a Binary Tree is Heap",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Connect “n” ropes with minimum cost",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Convert BST to Min Heap",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/convert-bst-min-heap/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Convert min heap to max heap",
+        "Done": false,
+        "URL": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Rearrange characters in a string such that no two adjacent are same.",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0"
+    },
+    {
+        "Topic:": "Heap",
+        "Problem: ": "Minimum sum of two numbers formed from digits of an array",
+        "Done": false,
+        "URL": "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1"
+    }
+]
