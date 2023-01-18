@@ -1,23 +1,25 @@
-import './App.css';
+import './styles/App.css';
 import React, {usestate} from 'react';
 import { BrowserRouter as Router, Routes as Switch, Route , Link } from "react-router-dom";
-import Graph from './components/graph';
-import Array from './components/array'
-import Backtracking from './components/backtracking';
-import BinaryTrees from './components/binaryTrees';
-import BitManipulation from './components/bitManipulation';
-import Bst from './components/bst';
-import Dp from './components/dp';
-import Greedy from './components/greedy';
-import Heap from './components/heap';
-import LinkedList from './components/linkedList';
-import Matrix from './components/matrix';
-import Search_sort from './components/search_sort';
-import StackQueue from './components/stackQueue';
-import String from './components/string'
-import Trie from './components/trie';
-import Home from './home';
-import Header from './header';
+import Graph from './components/Questions Page/graph';
+import Array from './components/Questions Page/array'
+import Backtracking from './components/Questions Page/backtracking';
+import BinaryTrees from './components/Questions Page/binaryTrees';
+import BitManipulation from './components/Questions Page/bitManipulation';
+import Bst from './components/Questions Page/bst';
+import Dp from './components/Questions Page/dp';
+import Greedy from './components/Questions Page/greedy';
+import Heap from './components/Questions Page/heap';
+import LinkedList from './components/Questions Page/linkedList';
+import Matrix from './components/Questions Page/matrix';
+import Search_sort from './components/Questions Page/search_sort';
+import StackQueue from './components/Questions Page/stackQueue';
+import String from './components/Questions Page/string'
+import Trie from './components/Questions Page/trie';
+import Home from './components/home';
+import Header from './components/header';
+import Login from './components/Login';
+import Signup from './components/Signup';
 
 function App() {
   return (
@@ -41,6 +43,8 @@ function App() {
           <Route path="/stack_queue" element={<StackQueue />}></Route>
           <Route path="/string" element={<String />}></Route>
           <Route path="/trie" element={<Trie />}></Route>
+          <Route path="/login" element={<Login />}></Route>
+          <Route path="/signup" element={<Signup /> }></Route>
         </Switch>
       </Router>
     </>

@@ -4,22 +4,21 @@ a{
 }
 
 .ques{
-    padding: 20px;
-    margin: 10px;
-    border-radius: 10px;
-    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5px;
+    /* background-color: #d6d8d9; */
     display: flex;
     justify-content: space-between;
-    border: 1px solid black;
+    /* border: 0.5px solid black; */
 }
 
 .quesName{
-    font-size: 28px;
+    font-size: 24px;
 }
 
 #done-btn{
     padding: 10px;
-    background-color: green;
+    background-color: #332D2D;
     color: white;
     border-radius: 10px;
     cursor: pointer;
